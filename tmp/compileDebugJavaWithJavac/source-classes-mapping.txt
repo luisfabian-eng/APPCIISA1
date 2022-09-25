@@ -1,0 +1,50 @@
+com/example/AppCiisa/controllers/BmiController.java
+ com.example.AppCiisa.controllers.BmiController
+com/example/AppCiisa/ui/BmiAdapter.java
+ com.example.AppCiisa.ui.BmiAdapter
+com/example/AppCiisa/MainActivity.java
+ com.example.AppCiisa.MainActivity
+com/example/AppCiisa/BuildConfig.java
+ com.example.AppCiisa.BuildConfig
+com/example/AppCiisa/models/IBmi.java
+ com.example.AppCiisa.models.IBmi
+com/example/AppCiisa/utils/DateUtils.java
+ com.example.AppCiisa.utils.DateUtils
+com/example/AppCiisa/lib/AppLobsangBarrigaDatabase.java
+ com.example.AppCiisa.lib.AppLobsangBarrigaDatabase
+com/example/AppCiisa/utils/Converters.java
+ com.example.AppCiisa.utils.Converters
+com/example/AppCiisa/models/IUser.java
+ com.example.AppCiisa.models.IUser
+com/example/AppCiisa/lib/TilValidator.java
+ com.example.AppCiisa.lib.TilValidator
+com/example/AppCiisa/lib/BCrypt.java
+ com.example.AppCiisa.lib.BCrypt
+com/example/AppCiisa/models/BmiMapper.java
+ com.example.AppCiisa.models.BmiMapper
+com/example/AppCiisa/dao/UserDao.java
+ com.example.AppCiisa.dao.UserDao
+com/example/AppCiisa/ui/DatePickerFragment.java
+ com.example.AppCiisa.ui.DatePickerFragment
+com/example/AppCiisa/LoginActivity.java
+ com.example.AppCiisa.LoginActivity
+com/example/AppCiisa/models/User.java
+ com.example.AppCiisa.models.User
+com/example/AppCiisa/controllers/AuthController.java
+ com.example.AppCiisa.controllers.AuthController
+com/example/AppCiisa/dao/BmiDao.java
+ com.example.AppCiisa.dao.BmiDao
+com/example/AppCiisa/models/Bmi.java
+ com.example.AppCiisa.models.Bmi
+com/example/AppCiisa/models/UserEntity.java
+ com.example.AppCiisa.models.UserEntity
+com/example/AppCiisa/SignUpActivity.java
+ com.example.AppCiisa.SignUpActivity
+com/example/AppCiisa/BmiDetailActivity.java
+ com.example.AppCiisa.BmiDetailActivity
+com/example/AppCiisa/models/UserMapper.java
+ com.example.AppCiisa.models.UserMapper
+com/example/AppCiisa/models/BmiEntity.java
+ com.example.AppCiisa.models.BmiEntity
+com/example/AppCiisa/BmiCreateActivity.java
+ com.example.AppCiisa.BmiCreateActivity
